@@ -22,3 +22,8 @@ flask_wtf
 joblib
 dash
 geopandas
+psycopg2-binary
+sqlalchemy
+openpyxl
+plotly
+
